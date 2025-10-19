@@ -1,4 +1,5 @@
 review_id,user_name,review_description,review_date,appVersion,rating,is_bug_report,bug_confidence,bug_keyword_count,review_length
+eeaf2cb7-49cb-4f9b-94fe-750ac6e31994,pubudu Amarasekera,useless fool app also the creator,2025-10-17 15:57:39,2.1.2,1,0,0.2832170841827953,0,33
 4bc70a7d-45bd-4ab0-a664-66cc7b8d8bf5,danushika Rathnayake,ui design as well as ux in very lower level its too difficult to use and i got extra 5gb and selected pay at that time no any updates the worst app i ve ever used this is far below even a very basic level app,2025-10-14 10:11:50,2.1.2,1,0,0.020832271055829413,0,208
 13009e7a-ff77-415f-9e8e-8cb7ae19e606,Sivanesan Suganthan,very poor,2025-10-08 16:48:48,2.1.2,1,0,0.08024721881353099,0,9
 d2904e34-a7e2-4255-a59a-a105e36297e9,Prabhath AP,reload option not working correctly,2025-10-08 02:24:25,2.1.2,1,0,0.20567300777975048,1,35
@@ -119,7 +120,7 @@ a13040b8-0d50-494c-bf1e-560645569195,Mr. La-Z-Man,i cant update my contact infor
 21886378-a025-4805-87a6-1edadda47306,Kaumi Thilakarathna,this app is completely useless full of errors don t waste your time or storage space on this app,2025-03-01 16:08:00,2.0.8,1,1,0.8695457302787575,1,96
 b7001117-277c-47ee-8961-a47392e72d26,Atheeth reh,i can not download bill please fix this issue,2025-02-24 12:53:39,2.0.8,2,1,0.7532126900397407,2,45
 6f4bfc66-d07b-45ee-8f04-f2429d1df6f7,Chamika Wickramasingha,the most badexpirienced ever with a network not reccommend to anyone to use this if anyone wants to choose this app please think 100 times,2025-02-21 16:50:23,2.0.8,1,0,0.011918152489393099,0,138
-6a695698-517e-4298-9b71-cfa19949a649,Alensun Drilll,nice,2025-02-15 06:07:35,2.0.6,5,0,0.0017554596586121518,0,4
+6a695698-517e-4298-9b71-cfa19949a649,Chandrasiri Satharasinghe,nice,2025-02-15 06:07:35,2.0.6,5,0,0.0017554596586121518,0,4
 f063f964-ee9f-4afb-9038-4471f24ef2bb,zippora Augustine,not worth even a single star the signal connection is terrible and the customer service is poor they know they have a poor connection and that customers are facing issues but they act like there s no problem we re paying but the data gets used up quickly without proper coverage slt is turning out to be just as bad as lanka bell the coordinators and staff at aluthmawatha are very lazy they don t provide any solutions and just tell us to go to the head office because they themselves do,2025-02-12 10:00:44,,1,1,0.6185648826153592,2,488
 c70e54e3-51ec-4a0f-afbc-17d64be84be2,Vitharana Prsanna,slow,2025-02-10 01:35:11,2.0.2,3,0,0.0026125974225613855,0,4
 59c8ecce-2f25-4da5-8547-a37b947f10aa,Hassan Yaseen,good service but automated deduction is the unnecessary system,2025-02-08 04:43:37,2.0.8,3,0,0.04985912328339313,0,62
@@ -265,7 +266,7 @@ a54222a3-bd22-4282-b189-20dfde101ab9,maheshi perera,don t use this as well as a 
 5980216f-385f-42c6-a76a-8d85c1f7d2f9,Malindu Dilshan,bruh why are you paying your developers should fire them asap you guy s living in a cave or something haven t seen my dialog app they fixed their lagging issues months ago their app is super smooth now and this mfing app takes like 2 hours just show something and that s if only when i m lucky 95 of the time say oops something went wrong we are soooooo disappointed bruh i can t even begin to tell how disappointed i am bugs fix krl,2024-05-18 14:55:57,,2,1,0.6458761480938207,3,433
 95a6e5ab-0c9c-4e41-ad31-d28b9c7933fe,Chatura Wijekoon,this app is very slow functions like detail reports are almost not available even though i subscibed for them,2024-05-13 07:37:32,1.8.0,3,0,0.42934497271073796,0,109
 23098f70-d37b-415b-a793-5642e4979425,Madura Sasanka,bad signal poor connection,2024-05-12 11:56:20,1.7.0,1,0,0.1264172230474617,0,26
-7b9dae06-b627-4eba-805d-bef1c985efaa,Thevarasa Thesigan,slt is the worst internet service provider within the 4g broadband service in sri lanka their app is also similar to their internet service there is a complaint registration system available in this app i registered a complaint last year but still haven t received any response,2024-05-10 19:29:14,1.8.0,1,0,0.10074185886024695,0,277
+7b9dae06-b627-4eba-805d-bef1c985efaa,Thevarasa Thesigan,slt is the worst internet service provider within the 4g broadband service in sri lanka their app is also similar to their internet service there is a complaint registration system available in this app i registered a complaint last year but still haven t received any response,2024-05-10 19:29:14,1.8.0,1,0,0.10074189608095281,0,277
 28943520-bed0-485e-8725-128907b1f6fa,Gamini Chandrasekera,slt email sending error comes,2024-05-10 11:15:56,1.8.0,1,1,0.7784896900126425,1,29
 de29b077-4b48-4798-aecc-2ab78bc7c1c3,Faizer Akm,loyalty,2024-05-09 12:52:30,1.7.0,5,0,0.004917330860536642,0,7
 9f9070c5-f279-4a10-b782-68b7457eb345,Nimsara Mahagedara,cannot even add my connection it says service temporary unavailable,2024-05-08 10:09:41,1.8.0,1,1,0.9715775868747402,0,67
@@ -292,7 +293,7 @@ f40d0e2e-a941-4034-94c7-7cdc742b9750,Rohan Sarathchandra,well structured easy to
 a9cca826-0d27-4103-beb7-42ec92b7d249,DLG NAYANATHARA - 0055,poor connection don t activite any data plans,2024-04-13 16:38:24,1.5.2,1,1,0.5724892419428316,0,45
 f2aef710-b6b7-4f42-a7b0-dde611a4935e,Gamunu Dinesh,,2024-04-12 04:11:18,1.7.0,1,0,0.0,0,0
 2a652c35-63ae-42f2-901d-2550550419e4,Ks Sudarsh,happy day select system error router massage,2024-04-11 15:51:03,,1,1,0.5115811937903285,1,44
-89f3a37a-37ca-4c55-8939-79a4471d3ec3,Janindu Rajapaksha,their connection speed gets so low due to higher user base so they can t have new users network speeds are so low that 3 seconds of hd video loads for 30 seconds and after thst 3 seconds it buffers for anlther 30 seconds,2024-04-11 12:03:26,1.7.0,1,0,0.028721099879006447,0,220
+89f3a37a-37ca-4c55-8939-79a4471d3ec3,Janindu Rajapaksha,their connection speed gets so low due to higher user base so they can t have new users network speeds are so low that 3 seconds of hd video loads for 30 seconds and after thst 3 seconds it buffers for anlther 30 seconds,2024-04-11 12:03:26,1.7.0,1,0,0.028721080762763595,0,220
 2b743da0-b673-4b8f-a2f7-c8048202f7d2,Binara Waduge,scamming sri lankan peoples shame on you,2024-04-09 13:34:51,,1,0,0.00713990200567105,0,40
 ae869505-8bdc-4386-8e29-39051c8bb5fb,Anura Wikramarachchi,ol pphon up hotel pt,2024-04-08 06:02:09,1.7.0,5,0,0.006016428122667626,0,20
 b268e9c5-be74-4afb-bd37-3a8f4d14027e,chathura prabath,very high charges poor customer service,2024-04-06 10:58:09,,1,0,0.07045942021909285,0,39
@@ -1164,7 +1165,7 @@ ac1e269e-16da-4aa4-bddb-05ec435d5cf4,Chamika Kannangara,i have done my payment a
 a71d16d3-ad5b-499b-9b9a-42817158b520,thilina danushka Abewickrama,super,2021-10-21 16:05:50,,5,0,0.0017871096363251768,0,5
 90039a2a-dac2-4074-a996-92293b47380e,danuja danuja,danuja,2021-10-21 10:07:45,,5,0,0.0008141613723282301,0,6
 4ad2dffc-2e0c-455f-9aa3-bc7548847859,Nadeesha Munasinghe,,2021-10-21 03:49:40,1.4.1,5,0,0.0,0,0
-69d9b95a-65c7-498a-9564-99c3fafb799c,asanka153,i yes it very good but now it ask for update when i choose to update update continue when open the app again update message come again what i have to do,2021-10-20 13:28:55,,4,1,0.6771036681108197,0,152
+69d9b95a-65c7-498a-9564-99c3fafb799c,asanka153,i yes it very good but now it ask for update when i choose to update update continue when open the app again update message come again what i have to do,2021-10-20 13:28:55,,4,1,0.6771036556240644,0,152
 03746351-1ec9-46aa-bd9e-fc54af59c992,Heshan Jayakody,the app s great but it only supports phones with android 6 which kinda bums me out try to make it compatible with phones with android 4 and above,2021-10-20 07:39:24,1.4.1,4,1,0.7590726331702816,0,145
 e4cc3e0e-fb89-4875-bb4b-117db0c74356,LAST HACK SHOT,excellent app,2021-10-20 03:57:50,,5,0,0.008005904377904969,0,13
 e380353d-b7c0-4b2b-bdc2-eadcca8feaab,Deepika Peiris,ohhhhhhhhhhhh,2021-10-19 03:42:24,,1,0,0.005327657647514869,0,13
@@ -1176,7 +1177,7 @@ e380353d-b7c0-4b2b-bdc2-eadcca8feaab,Deepika Peiris,ohhhhhhhhhhhh,2021-10-19 03:
 ef12e63c-8fb8-41d7-8169-abf0275495fc,tccsunion ampara,it is good tool to manage wifi and able to understand where we are can simply by clicking we can obtain desired tv channel and the wifi needs,2021-10-16 11:49:16,1.4.1,5,0,0.02959426749680172,0,141
 9ee23812-8038-4f2e-86b1-1edaf43eda5a,Sevin Boralugoda,basically yes it does the job but the user interface is awful and is very frustrating to use the animations are choppy when switching from windows and applying commands but where it needs the most improvements is the organisation of buttons its all over the place and is not catogarised for example why is there a whole separate section for complaints it s not something that users will use all the time could have been in a sub menu and the section replaced with something more important,2021-10-16 09:23:07,1.4.1,1,0,0.1364070304948407,0,488
 2b4fc86f-0109-4f7a-8b6c-22c522bac2cd,Wasantha Laksiri,good,2021-10-15 20:21:07,1.4.1,4,0,0.0010850236282262486,0,4
-c7a71634-a156-411b-b87b-e7f694b21c5e,Dr: Rasika Liyanage,something wrong with my app showing to update but not updating or not working also informed to slt but still the same no problem with the phone other apps working,2021-10-15 19:22:48,1.3.2,1,1,0.9512259175688687,2,162
+c7a71634-a156-411b-b87b-e7f694b21c5e,Dr: Rasika Liyanage,something wrong with my app showing to update but not updating or not working also informed to slt but still the same no problem with the phone other apps working,2021-10-15 19:22:48,1.3.2,1,1,0.9512259175495491,2,162
 d68730e7-b92b-4296-adef-bd2633bd1d70,SIRAJUN ISTHIKAR MOHAMED ABOOBUCKER,very good app,2021-10-15 18:24:11,1.3.2,5,0,0.00504097819170386,0,13
 6c74808c-673d-479b-9c1f-d44207e32ba4,Sanju Galle,good,2021-10-15 16:17:05,1.4.1,5,0,0.0010850236282262486,0,4
 b7274c26-8bce-4952-9bc3-7866f76f8643,FILM HUB,,2021-10-15 15:43:37,1.3.2,1,0,0.0,0,0
@@ -1514,7 +1515,6 @@ ac516609-fda7-4e96-80fd-ef6d7d5f9667,Sasindu Akalanka,usage report okkoma boru m
 2da79059-9ff0-4e0a-bbe4-6cf662304b69,Pawara Pawara,hifi exorcists tummies truck,2021-06-01 14:27:43,,5,0,0.006248387483546831,0,28
 68dcf9ce-754f-43cc-a255-cb3ebad902b9,Kavindu Amayuru,this app has some problems need a quick development,2021-06-01 13:49:50,1.3.2,2,0,0.24490131356020398,1,51
 1cbc5eeb-2584-4758-81ab-60bcea458a45,Gayan Ramanayake,worst app ever seen lots of things to develop in this app not user friendly i can t even imagine how to work in this app,2021-06-01 12:11:40,1.3.2,1,0,0.05149982259105498,0,120
-227ad316-13cf-4f7c-a9d6-13124069100c,Adeepa Idumini,,2021-06-01 10:56:01,1.3.2,5,0,0.0,0,0
 71817adf-7c5e-411a-8b53-4e877bdf66c9,Chathura Madushanka Ariyarathna,not workin,2021-06-01 09:53:15,1.3.2,1,0,0.03504140235836898,0,10
 56a5445d-a90b-49e8-b2da-658cf7769660,Malaka Gunasekara,f,2021-06-01 08:38:14,1.3.2,1,0,0.0049678786933453805,0,1
 89a41c7d-f2a3-4eb5-8ca7-04f3f635e46f,Malinga Seamon,,2021-06-01 08:36:09,1.3.2,1,0,0.0,0,0
