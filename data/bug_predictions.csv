@@ -1,4 +1,5 @@
 review_id,user_name,review_description,review_date,appVersion,rating,is_bug_report,bug_confidence,bug_keyword_count,review_length
+72a8ce25-6b53-4c40-90c4-57c9745cae0a,Amila Udara,5g 3g network provider 500,2025-10-18 13:07:12,2.1.2,1,0,0.04745357798150119,0,26
 eeaf2cb7-49cb-4f9b-94fe-750ac6e31994,pubudu Amarasekera,useless fool app also the creator,2025-10-17 15:57:39,2.1.2,1,0,0.2832170841827953,0,33
 4bc70a7d-45bd-4ab0-a664-66cc7b8d8bf5,danushika Rathnayake,ui design as well as ux in very lower level its too difficult to use and i got extra 5gb and selected pay at that time no any updates the worst app i ve ever used this is far below even a very basic level app,2025-10-14 10:11:50,2.1.2,1,0,0.020832271055829413,0,208
 13009e7a-ff77-415f-9e8e-8cb7ae19e606,Sivanesan Suganthan,very poor,2025-10-08 16:48:48,2.1.2,1,0,0.08024721881353099,0,9
@@ -963,8 +964,8 @@ b59b8d8a-6c65-4274-b3ee-d4397eb6c5b5,Keshan Jayarathna,,2022-07-05 05:40:53,,5,0
 1dc72e77-accc-40a2-ab1d-dfa22b7fd6d5,Thilanka Madhuranga,always not working,2022-07-03 04:31:38,1.4.2,1,1,0.9120825109663713,1,18
 eb3f55d0-fb34-452f-99f9-44d9899930bc,Tharusha Thilakarathne,not working properly always shows an error prompt when opened p s now there is no such an error still there is room to improve but overall it s usable,2022-07-02 22:28:20,1.4.2,4,1,0.9123052827809626,2,150
 8fa5647e-7dca-47d8-ac43-9fae4dc3f732,LASITHA MARASINGHE,so basically you guys taking out the working app and replacing to a broken app ggwp cant even login what a joke,2022-07-02 15:05:51,,1,1,0.9005469922459376,1,111
-2b1de78a-f777-4196-998d-72af04678cda,Isuru,imagine for a sec the leading isp in the country cannot figure out a simple textbox to enter the tp no dude just remove this trash and rename broadband app to myslt,2022-07-02 12:49:12,1.4.2,1,0,0.3414730844073946,0,164
-d17aa21c-bf04-42ec-8dba-278416baa0b4,Chamika,it works and delivers the functionalities that it promises but currently it has an outdated user interface and layout,2022-07-02 12:25:55,1.4.2,3,0,0.2904768048417115,0,117
+2b1de78a-f777-4196-998d-72af04678cda,Isuru,imagine for a sec the leading isp in the country cannot figure out a simple textbox to enter the tp no dude just remove this trash and rename broadband app to myslt,2022-07-02 12:49:12,1.4.2,1,0,0.34147308440739454,0,164
+d17aa21c-bf04-42ec-8dba-278416baa0b4,Chamika,it works and delivers the functionalities that it promises but currently it has an outdated user interface and layout,2022-07-02 12:25:55,1.4.2,3,0,0.2904768048417117,0,117
 d4fb17b7-d44b-423b-aac2-60ea47583855,Ishara Diaz,app maintain star,2022-07-01 07:41:02,1.4.2,1,0,0.4754843137138685,0,17
 81c41add-82f3-4349-8f97-d0486cce090e,leake news official,,2022-06-30 14:21:55,,5,0,0.0,0,0
 573f21cc-5d8c-4401-9c3f-aca46a74efaa,Upul Perera,i like it,2022-06-30 00:35:56,1.4.2,3,0,0.000677027741815112,0,9
@@ -1454,7 +1455,7 @@ c5966274-4017-4d38-a861-5e384ed5836a,Wafa Gazzaly,need more facilities,2021-06-2
 54e1e9ab-3db1-4264-9d5e-59197cc507ad,Nirosh Viduranga,yesterday i paid my outstanding amount via online but still it has not been updated,2021-06-19 16:54:07,1.3.2,2,1,0.706637442904659,0,83
 c73c3bf2-1e28-4c20-9f7b-861bfbc040e5,Osura Shalinda Disanayaka,click more data usage display error please change the slt package for view data usage,2021-06-19 15:25:18,1.3.2,3,1,0.7136883365871768,1,85
 5022d7a5-70c4-4501-b29b-4d0e0d54c1c2,milinda jayathilake,good app way easier than calling hot line,2021-06-19 05:12:36,1.3.2,5,0,0.03046689248850319,0,41
-ad6d61cf-1b71-4fdc-89e9-d6d38ae985c0,Rasanjana G Jayasekara,i just updated this app let us see how it will show its improvements anywat as far as the way it used to be was not as good as i expected,2021-06-18 16:58:09,1.3.2,1,0,0.07915482308473965,0,137
+ad6d61cf-1b71-4fdc-89e9-d6d38ae985c0,Rasanjana G Jayasekara,i just updated this app let us see how it will show its improvements anywat as far as the way it used to be was not as good as i expected,2021-06-18 16:58:09,1.3.2,1,0,0.0791548514629396,0,137
 72094687-bf60-4d33-94a2-1e4687473de0,haritha rajapaksha,no good,2021-06-18 05:17:24,,5,0,0.010530261603135452,0,7
 5418040c-b2b8-450b-a254-79d6ce2d2ebe,Hanaan Hussain,poor ui,2021-06-17 16:33:53,1.3.2,1,0,0.13065090398021778,0,7
 5b9e38d2-40cc-4755-84a9-59fea6cdfa0f,Sellathurai Niranjan Nira,requested fiber connection they never respond good customer service,2021-06-17 16:20:21,1.3.2,1,0,0.10606678352918478,0,67
