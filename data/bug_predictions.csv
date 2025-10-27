@@ -1,4 +1,6 @@
 review_id,user_name,review_description,review_date,appVersion,rating,is_bug_report,bug_confidence,bug_keyword_count,review_length
+cc30fca7-3392-45c6-8b2f-3edfe13f6811,Danushka Rajapaksha,,2025-10-25 09:42:56,,5,0,0.0,0,0
+e545dd56-1f07-4a62-bebc-2fbed13deb89,Priyani Iresha,cannot change the contact info please fix it,2025-10-24 16:18:26,,1,1,0.5563695027650808,1,44
 0398194b-f886-4b58-8064-c021acaca6a5,Menuka Tharusha,this app has become almost useless most of the time whenever i try to open it i keep getting messages like service temporarily unavailable or oops something went wrong please try again shortly what s worse is that slt has limited us to use only this app to reload broadband or check data balance there s no website no ussd code and no option to reload with mobitel cards anymore because of that when this app doesn t work we re completely stuck,2025-10-23 04:39:22,,1,1,0.8569305435542705,1,444
 abaa9471-39f9-4e6b-a298-e14e153f6ac3,Chandathapa Senarathna,error oops something went wrong please try again shortly,2025-10-23 02:46:23,2.1.2,1,1,0.8795232754528751,1,56
 6c01dec8-0cbe-4d27-8c88-eacf1c2ed192,Abdullah Abd,nothing to say just the worst possible app anyone can imagine of,2025-10-22 22:18:08,,1,0,0.016310559868568785,0,64
@@ -478,7 +480,7 @@ ee72d094-9569-4e52-bb29-ac9d0635d4fb,Seevali Wanigasekera,good,2023-08-23 07:45:
 7aa9507d-3d19-461e-b8c2-09d94f880fdf,Nipun Sanchika Suraweera,please add reloading option to this app i cant to reload to my prepid slt connection,2023-08-23 07:03:51,1.7.0,5,0,0.15995112202301004,0,84
 479793c0-81a4-4bf2-8c2b-2d6ab8bcfa2b,Sanjeewa Prasannna,uu v vb h,2023-08-23 06:20:56,1.7.0,5,0,0.006472887940663812,0,9
 e66c8ac4-9370-4f3e-92e3-79002634ef2b,Tharmalingam Subendran,mr subendrarajah,2023-08-22 23:59:49,1.7.0,5,0,0.001543648882289516,0,16
-ca0efb7f-a84a-4b3f-b5a5-12f5b1b98ee0,Lakindu Kumara,very helpful app,2023-08-22 23:55:17,,4,0,0.036569760440271944,0,16
+ca0efb7f-a84a-4b3f-b5a5-12f5b1b98ee0,Lakindu Kumara,very helpful app,2023-08-22 23:55:17,,4,0,0.036569760440271916,0,16
 1e05814c-4b41-447f-ba35-a3e64d16ae9d,Skr Viji,good,2023-08-22 17:28:40,1.7.0,4,0,0.001083018482880528,0,4
 56605424-b8ab-4bf6-8ab3-7e91fd256556,sasheed panapitiya,useful for manage my conections but it would be better if it improved,2023-08-22 16:29:20,1.7.0,4,0,0.09864347126987529,0,69
 39c2021f-0fed-455b-9495-46bb4996b574,dulshan madhusha,superb it s very easy to use,2023-08-22 14:06:04,,5,0,0.006022443451261382,0,28
@@ -971,7 +973,7 @@ b59b8d8a-6c65-4274-b3ee-d4397eb6c5b5,Keshan Jayarathna,,2022-07-05 05:40:53,,5,0
 0a6179f6-149d-4453-ba59-28d174e1bdcd,Dez,the previous app was perfectly fine and more sophisticated why do you guys have to go and change it even the response time is slower in this app than the previous one,2022-07-05 02:13:47,1.4.2,2,0,0.13642374519803055,0,166
 8c8bbbc8-37b6-4aae-86ff-483a12dbc357,Pasindu Aloka,un useful app,2022-07-04 17:36:42,1.4.2,1,1,0.5303275061334352,0,13
 1dc72e77-accc-40a2-ab1d-dfa22b7fd6d5,Thilanka Madhuranga,always not working,2022-07-03 04:31:38,1.4.2,1,1,0.9120028966691894,1,18
-eb3f55d0-fb34-452f-99f9-44d9899930bc,Tharusha Thilakarathne,not working properly always shows an error prompt when opened p s now there is no such an error still there is room to improve but overall it s usable,2022-07-02 22:28:20,1.4.2,4,1,0.9126199672976228,2,150
+eb3f55d0-fb34-452f-99f9-44d9899930bc,Tharusha Thilakarathne,not working properly always shows an error prompt when opened p s now there is no such an error still there is room to improve but overall it s usable,2022-07-02 22:28:20,1.4.2,4,1,0.9126199672976226,2,150
 8fa5647e-7dca-47d8-ac43-9fae4dc3f732,LASITHA MARASINGHE,so basically you guys taking out the working app and replacing to a broken app ggwp cant even login what a joke,2022-07-02 15:05:51,,1,1,0.8999912569139159,1,111
 2b1de78a-f777-4196-998d-72af04678cda,Isuru,imagine for a sec the leading isp in the country cannot figure out a simple textbox to enter the tp no dude just remove this trash and rename broadband app to myslt,2022-07-02 12:49:12,1.4.2,1,0,0.33930163597206275,0,164
 d17aa21c-bf04-42ec-8dba-278416baa0b4,Chamika,it works and delivers the functionalities that it promises but currently it has an outdated user interface and layout,2022-07-02 12:25:55,1.4.2,3,0,0.29056903324613576,0,117
@@ -1037,7 +1039,7 @@ f603d349-e1cc-420c-856f-7898331247cd,Chathula Ranasinghe (Chathu),great app,2022
 914a0bb3-0345-4451-90ee-33953d0d87eb,Akash Randul,wow love slt,2022-04-06 12:52:13,,5,0,0.012204749112743461,0,12
 0385d0c7-3827-4071-9a27-4a27ee7435a1,Ravi Shankar,,2022-04-04 07:14:03,1.4.1,5,0,0.0,0,0
 2b773a74-41b2-43d2-bc9a-f44817666980,Vindya Samaranayake,slt broadband is better than this,2022-04-03 04:22:03,1.4.2,1,0,0.017357992224673394,0,33
-2ca46cf1-c210-4c73-8c13-44cb4823b322,Monica Suriyaarachchi,have a message board on the app to inform the customer of any common outage problems related to his area or islandwide or if his connection is disconnected for some reason state that on this message board so that slt can avoid many calls to their hotline call centre,2022-03-30 02:57:33,1.4.2,3,1,0.5864493214926938,1,266
+2ca46cf1-c210-4c73-8c13-44cb4823b322,Monica Suriyaarachchi,have a message board on the app to inform the customer of any common outage problems related to his area or islandwide or if his connection is disconnected for some reason state that on this message board so that slt can avoid many calls to their hotline call centre,2022-03-30 02:57:33,1.4.2,3,1,0.5864489722005659,1,266
 7ad387c0-86d3-4a53-9075-68ab24e95817,Shanike De Silva,why is this app restricted for root users,2022-03-29 13:50:06,1.4.2,1,1,0.6104095194864341,0,41
 13cc0bbe-5063-45fc-bdeb-839c358be906,Sahull Hameed,my fahakee sahumkk,2022-03-27 12:20:25,1.4.2,3,0,0.0004000343861559228,0,18
 aba88f44-994d-4be6-8a7b-12054711bff7,Asitha Dissanayaka,easy to use and usefull must add a refresh option when in the app,2022-03-20 09:45:51,1.4.2,4,0,0.12408428213862617,0,65
@@ -1067,7 +1069,7 @@ edae1060-437b-4aed-971c-c8ebdde2b54a,Sandeepa Mallawarachchi75,such a worst app 
 3721d09d-c17b-4ad1-bc1f-da20fa3203df,Praveen Chamal,this app added 3 additional extra packages without giving any acknowledgement once custom care service agreed and accepted the fault on their side now they forget all the things and i have to pay for them,2022-01-20 05:01:13,1.4.2,1,1,0.5303632674332602,0,204
 fd38d982-8682-45b2-9150-cbccd1382aca,Pramod Marasinghe,when a new version is available we are not allowed to use the existing version without updating when there is no space left in the phone to update the app is not usable at all,2022-01-16 04:13:09,,3,1,0.8908389266270546,0,175
 228f3b0f-fb18-40d2-963e-773761ac23a4,Mali Jayalath,super,2022-01-13 16:36:07,,5,0,0.0017844357658168438,0,5
-c806c70d-19b4-4bf5-9343-4aff96301716,Minali Wijesinghe,this app always get crashed when i try to pay bill through this app it always shows that my number is wrong please give a hint on required format so that it is not confusing there are lots of options but very few is working,2022-01-13 03:14:45,1.4.2,2,1,0.7829392439522298,1,223
+c806c70d-19b4-4bf5-9343-4aff96301716,Minali Wijesinghe,this app always get crashed when i try to pay bill through this app it always shows that my number is wrong please give a hint on required format so that it is not confusing there are lots of options but very few is working,2022-01-13 03:14:45,1.4.2,2,1,0.7829393270287393,1,223
 583b9ed5-f9f4-4188-911a-de8c82831bb4,Nipun sasmitha Withanage,good,2022-01-10 15:22:35,1.4.1,1,0,0.0010830184828805262,0,4
 297940a3-ad0d-4616-a6b4-a663c78bc00f,Sanjeewa Perera,nice work,2022-01-10 02:52:22,1.4.1,5,0,0.0015445249215689592,0,9
 dbb1f3b4-2ed5-40ed-9521-4478adfce5af,Dhanu Gunawardana,good app,2022-01-09 09:51:29,1.4.2,1,0,0.0035822781887181686,0,8
@@ -1080,7 +1082,7 @@ a62536bd-361a-4422-b74b-03d21e1446c4,Ravindu Lakshan,so many bugs,2022-01-03 12:
 5921b581-e9c2-4838-bd0e-1ad0a4ecd94f,Manuka Thilakaratne,it looses all account data when update worse app,2021-12-31 04:05:48,1.4.2,1,0,0.4588338640213652,0,48
 00b64a0b-8627-4132-bc4f-4ac709865beb,Dileepa Sudarshana,good,2021-12-31 02:44:43,1.4.1,4,0,0.0010830184828805262,0,4
 36463cda-0efd-46b6-a583-4781d8164b8c,Rusara Jayathilaka,slt wow,2021-12-31 01:50:06,,5,0,0.016671210903254335,0,7
-4f00200e-7a64-412f-b46b-915b7238b96a,Bhanuka Hettiarachchi,interface needs an update it s not very user friendly i use it to pay the bill but it doesn t feel safe it lags but gets the job somehow,2021-12-30 18:13:15,1.4.2,2,0,0.18914696928656152,0,136
+4f00200e-7a64-412f-b46b-915b7238b96a,Bhanuka Hettiarachchi,interface needs an update it s not very user friendly i use it to pay the bill but it doesn t feel safe it lags but gets the job somehow,2021-12-30 18:13:15,1.4.2,2,0,0.18914719178977693,0,136
 831e21d9-9164-4aac-8668-417a828173a8,විශ්ව මාතාවට ස්තුතියි Dj lasantha,good,2021-12-30 15:20:28,1.4.2,5,0,0.0010830184828805262,0,4
 7a35c074-8966-4406-836f-7e7c8493e0c5,Kaushalya Edirisingha,,2021-12-30 13:36:38,,1,0,0.0,0,0
 e3f97b75-8d61-4360-888c-fa8fef2fcf75,Sandrine Gomez,good one,2021-12-30 12:49:35,1.4.1,5,0,0.007670708109341167,0,8
@@ -1092,7 +1094,7 @@ f6f9694a-5f24-408a-9f39-915eef8877de,Upul Akmeemana,not user friendly,2021-12-29
 a7b17b8f-7dbb-4c6e-bbba-f854da34f52a,udan kavishka,not satisfied,2021-12-27 07:31:45,,1,0,0.014134290596513954,0,13
 895ff2de-b17c-4d5d-915f-9d456a854d3e,Sahan Samararathne,very useful app for slt costumers,2021-12-27 04:17:44,1.4.2,5,0,0.032378215645765145,0,33
 3b0984df-01ba-4129-bddc-7b146d1da3b7,Sehan Sanjula,app eka,2021-12-26 07:16:14,1.3.2,5,0,0.011011315963097294,0,7
-3baa0c17-cfda-438e-b365-fe3464c9fecd,Vishan Piero,easy to use but the app crashes all the time could have been better if it was properly developed with no crashes it is really annoying to use it with all these crashes,2021-12-26 06:29:39,1.4.2,2,0,0.25595541189733595,1,167
+3baa0c17-cfda-438e-b365-fe3464c9fecd,Vishan Piero,easy to use but the app crashes all the time could have been better if it was properly developed with no crashes it is really annoying to use it with all these crashes,2021-12-26 06:29:39,1.4.2,2,0,0.2559555616170511,1,167
 001a80e9-5750-4c58-8de4-f19ca6540afc,prasanna alwis,great app,2021-12-25 06:51:55,1.4.1,1,0,0.009138542286455264,0,9
 af368450-3831-4221-aa31-5b3a190fb9f5,Renuka Gamge,it s easy to use,2021-12-25 02:39:38,1.4.1,4,0,0.009840616161916393,0,16
 ca98229f-04f9-42fc-a5ea-6c963873d6c9,Kalinga Bansara,this app is very usefull now i can activate data pack anytime thank you slt,2021-12-24 03:01:21,1.4.2,5,0,0.22770227517857763,0,75
@@ -1106,7 +1108,7 @@ e09ee91e-1a55-4362-a21a-c2208a559f15,Hashen Mihiranga,my favorite data saver app
 436f64ef-eca3-46a6-8397-88a5e884345e,Niwantha Bandara,nice,2021-12-22 16:16:56,1.4.1,5,0,0.001754487612247245,0,4
 7aae2324-1e84-4c3e-8338-81b4036df26e,Manoja Gunarangi,very good app this is the best app i had ever used,2021-12-22 14:50:43,1.4.2,5,0,0.002765145679585028,0,50
 2a6e4f7c-cce0-46c8-8715-d6407df0bb62,Chathura Weerakoon,superb,2021-12-22 14:03:51,,5,0,0.0016538518060679127,0,6
-8471355d-283d-4ecc-970b-ab56af08a9dc,Namal Rangana,this app needs a huge change starting from boring user interface only usable buttons are the pay package balance buttons every other thing is useless exept for promotions what s the meaning of your moto the connection when we have to install another app to check mobile connection info lol,2021-12-22 12:32:39,1.4.2,1,1,0.5299469405798184,0,289
+8471355d-283d-4ecc-970b-ab56af08a9dc,Namal Rangana,this app needs a huge change starting from boring user interface only usable buttons are the pay package balance buttons every other thing is useless exept for promotions what s the meaning of your moto the connection when we have to install another app to check mobile connection info lol,2021-12-22 12:32:39,1.4.2,1,1,0.5299466719427006,0,289
 ec6723dd-471f-4e4b-b5af-2881fe815beb,Krishnapillai Muralitharan,it is easy to control the data,2021-12-22 12:28:31,1.4.2,3,0,0.016175664267653083,0,30
 81f12470-759d-41f4-8d3c-9d392622ac32,kithsara digital,good,2021-12-22 07:14:38,1.4.1,5,0,0.0010830184828805262,0,4
 497bea8b-bc80-453a-9651-5a654635f623,Mathusa,good,2021-12-22 06:48:38,1.4.2,4,0,0.0010830184828805262,0,4
@@ -1217,7 +1219,7 @@ e7218568-7c25-4950-9d24-d84be9378281,ramindika sammani,yow,2021-10-12 15:41:05,1
 7a7a8e61-32d1-498f-a552-a4bd5c79c062,Indika Wimalasooriya,ful bugs fix thanks,2021-10-12 14:34:06,1.3.2,1,1,0.8120713945864393,2,19
 61ae146a-783c-4deb-9296-b12fd7dfff60,Sisira Kumara,super,2021-10-12 13:56:01,1.3.2,2,0,0.0017844357658168438,0,5
 7dc7ffc6-e2b4-44b6-852c-143c6f89fb7f,Lakshitha Dewminda Herath,better than my dialog app,2021-10-12 10:40:16,1.3.2,5,0,0.09533137897011039,0,25
-7d74a94f-9ab7-4702-8505-3006795e322e,chitral jayathilake,this app good but its better if you are giving a option to on internet off switch throug the app because it is easy to control parent,2021-10-12 09:25:41,1.4.1,5,0,0.12790794209012485,0,133
+7d74a94f-9ab7-4702-8505-3006795e322e,chitral jayathilake,this app good but its better if you are giving a option to on internet off switch throug the app because it is easy to control parent,2021-10-12 09:25:41,1.4.1,5,0,0.12790802819001376,0,133
 babc57e1-443b-4b30-aa81-561aaeb60a3a,Thilina Madusha,good,2021-10-12 08:43:03,1.3.2,5,0,0.0010830184828805262,0,4
 ae661bf9-66bf-45b1-bf3e-fbd4b72ec552,Medhan NeTh,bad experience,2021-10-12 08:16:48,1.4.1,1,0,0.004233879391785744,0,14
 aa3e654f-96e9-43e9-ba23-e9cd236eadbe,Sandinu gamage,bug bug bug bug,2021-10-12 07:41:46,1.3.2,1,1,0.8782104226511495,1,15
@@ -1232,7 +1234,7 @@ d928e031-3ca3-453a-aacb-11f4bd723c11,Lalith Subasinghe,one of the best app in sr
 27e805fd-1cda-4858-a374-f5bb73396b83,Dimuth Perera,not user friendly,2021-10-11 18:20:38,1.4.1,3,0,0.026578864396882073,0,17
 1674f41c-ddae-4b21-9b7b-b930ab26656c,Manoj Withanage,excellent service,2021-10-11 15:19:55,1.3.2,5,0,0.0010854981656018396,0,17
 1e8dc8ba-6972-484e-b0c4-207d61e981b0,Lesley Samaranayake,very good app useful,2021-10-11 15:00:11,1.3.2,5,0,0.06120188253380195,0,20
-2845b9f0-732f-411e-a35c-9402ae98a6ae,Nilantha Alwis,when i need to use you must offer to proceed without updating the app update should be optional not a must it cannot update with slow connections,2021-10-11 14:57:14,1.3.2,1,0,0.4252924409840053,0,145
+2845b9f0-732f-411e-a35c-9402ae98a6ae,Nilantha Alwis,when i need to use you must offer to proceed without updating the app update should be optional not a must it cannot update with slow connections,2021-10-11 14:57:14,1.3.2,1,0,0.42529235070126,0,145
 1e511f05-dfb1-4604-8e86-77f902a4ab13,Venura Kanchuka Jayawickrama,good,2021-10-11 14:56:01,,4,0,0.0010830184828805262,0,4
 af9f257f-9933-4a9c-9a8d-f18db9e84c72,Rajeev Siriwardena,very useful,2021-10-11 14:20:49,1.4.1,4,0,0.033742881341316776,0,11
 f2b42a93-f71f-4f3c-bfec-bcb662b6f7c8,Prashansa Prasadani,good app very helpful,2021-10-11 13:56:06,1.3.2,5,0,0.030008585875043247,0,21
@@ -1244,7 +1246,7 @@ b4f22920-10cc-4dbf-be45-a28beb06e62e,Dilaksha Pawan,this app is always show vari
 080ec03c-bc48-4877-9067-a358073572e9,Kavindu Pasan Kavithilaka,works well but some features need improvements,2021-10-09 01:38:24,1.4.1,5,0,0.27622544083598494,0,46
 82e727f2-5efa-4362-afc1-ba09c0eb9ab4,Canadian CM,stupid f app slow loading time wasting app uninstalled,2021-10-08 20:55:55,,1,0,0.16929210047895812,0,54
 0c9b6586-a435-4e33-be74-f6b83f3815b9,Me Kam,vera leval app,2021-10-07 16:33:22,,5,0,0.08685006694405162,0,14
-d914fc88-f38f-48ab-a290-71f88d1dd8ec,Nirmal,ui ux 1 5 system working 1 5 just showing severice is unavailable so what is the purpose of this app,2021-10-07 13:25:57,1.4.1,1,1,0.7129873013731535,0,100
+d914fc88-f38f-48ab-a290-71f88d1dd8ec,Nirmal,ui ux 1 5 system working 1 5 just showing severice is unavailable so what is the purpose of this app,2021-10-07 13:25:57,1.4.1,1,1,0.7129871494708624,0,100
 3175bf7f-033b-46ec-aafe-63812cfe31c4,mr thole,good app,2021-10-07 07:41:26,,5,0,0.0035822781887181686,0,8
 3ec47e94-d7f9-4648-bb75-45b8815a60d8,Suranga Gunasena,can t make a complaint through the app this case is observed for recent few weeks,2021-10-07 07:41:06,1.3.2,1,1,0.7180532433756877,0,81
 b64cc865-e33b-4907-bd2f-48f00d5584ce,Nirodha Sheran,the app seems good what about ths signal strength please enhance it other wise the app will be a waste,2021-10-07 07:27:06,1.3.2,2,0,0.08653918310459736,0,102
@@ -1473,8 +1475,8 @@ f97fd5bd-21d9-497b-b796-9f0953b4e100,Tharindu kulathunga,i have rooted device i 
 88a7e11c-ef8d-4ff7-9448-4170df5340d9,Widanagamage Suranga,not sucessful,2021-06-17 04:04:48,1.3.2,1,0,0.021105416365146755,0,13
 0cacba85-4e57-43c9-883c-b7ee517e0d9a,sanju dinu,,2021-06-16 18:37:31,1.2.8,5,0,0.0,0,0
 214b2513-4100-462f-bab3-30ec6a444f9e,Srinath Weerasinghe,this is very very important app for us,2021-06-16 18:13:43,1.3.2,5,0,0.1194139409193637,0,38
-ba6836e5-3477-445a-a8f0-ecb58cd5f3fd,Hansaja Indipa,bad app,2021-06-16 18:09:39,1.2.8,4,0,0.11072976829944287,0,7
-3a75317d-1d8e-4c4f-ba7f-2cf7859f9f0b,Christine kugathasan,it most truly work for wifi any body can download this app,2021-06-16 15:45:18,1.2.8,4,0,0.26647686985706576,0,58
+ba6836e5-3477-445a-a8f0-ecb58cd5f3fd,Hansaja Indipa,bad app,2021-06-16 18:09:39,1.2.8,4,0,0.11072976829944282,0,7
+3a75317d-1d8e-4c4f-ba7f-2cf7859f9f0b,Christine kugathasan,it most truly work for wifi any body can download this app,2021-06-16 15:45:18,1.2.8,4,0,0.26647686985706553,0,58
 1751dd55-907c-42d9-9c11-1f8c10de4592,Hansa sandamal,i like this app good luck,2021-06-16 04:55:32,1.3.2,3,0,0.011885332827074671,0,25
 8b4deb18-66e1-4c96-ba37-87122e727888,Ruwan Kumara,nice apps,2021-06-15 23:11:51,1.3.0,5,0,0.0032479319162050466,0,9
 2ecf6ed5-75f9-4594-b33e-f5cffc7bd763,Nalaka Chathuranga,it s use full app but some time bad service new interface not bad,2021-06-15 19:36:24,1.3.2,4,0,0.16404878158183625,0,65
