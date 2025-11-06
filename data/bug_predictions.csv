@@ -1,4 +1,5 @@
 review_id,user_name,review_description,review_date,appVersion,rating,is_bug_report,bug_confidence,bug_keyword_count,review_length
+7eb8256f-6b67-4932-8ec8-90d0c81167e1,Harith Weeraman,crashes when checking out packages and eventually after doing anything else,2025-11-04 16:34:10,,1,1,0.637230772564582,1,75
 17eefdcb-28f2-40b6-a460-452c467a37d5,Sanjeewa ranasinghe,good app,2025-11-01 04:37:36,2.1.2,4,0,0.003571750475501282,0,8
 f7b6452f-29ee-4daa-a8f7-b7399fe34662,Akila,awful ui sucks works as intended 20 of the time,2025-10-31 06:04:14,2.1.2,1,1,0.5024540994697677,0,47
 23914119-e1c3-4af3-84dd-130281595699,Pasindu Prabhath Galle Waththage,the worst can t find bill amount bill history even cant pay online,2025-10-30 01:27:08,2.1.2,1,0,0.378846960720057,0,66
@@ -973,8 +974,8 @@ d401ac62-0241-4d5f-a63d-1453bca7cc36,Amanda Dela,the worst interface that ever s
 435cf65d-5b68-45dd-9662-3950754723ca,Pragash Ganeshan,unable to login it says incorrect user name password even though i entered the right one unable to reset the password,2022-07-06 07:53:10,1.4.2,1,0,0.10969501871324565,0,117
 b1570f52-72ab-499b-a708-c4b7ebcf941a,Jaliya Jayarathne,not a usefull app,2022-07-06 04:42:13,,1,1,0.6865657570641183,0,17
 b7f5375b-9290-4de9-a5a4-b12746b96432,Pramoda Savindri,useless,2022-07-06 04:34:35,1.4.2,1,1,0.7915414068195652,0,7
-501e2291-713f-4cff-8699-6ffa605f4128,Shazeena Faiz,the app before with the blue app logo stopped working saying my username and password is incorrect so i uninstalled and installed this one but it says the same thing that my username and password is incorrect and there s no way for me to check my gb usage or atleast add ons i hope y all sort this out,2022-07-05 16:10:35,,1,1,0.5358749433486768,0,301
-3f9911b6-b8e6-42c4-910d-816805846777,Hasitha Wijethunga,i only use slt app to see my data usage its really worked previous slt broadband app its had great user interface but this app is absolutely worst app for data usage this app look built in 19ts and to access data usage is really disgusting it must have easy access,2022-07-05 10:28:42,1.4.2,1,0,0.18932499333020852,0,264
+501e2291-713f-4cff-8699-6ffa605f4128,Shazeena Faiz,the app before with the blue app logo stopped working saying my username and password is incorrect so i uninstalled and installed this one but it says the same thing that my username and password is incorrect and there s no way for me to check my gb usage or atleast add ons i hope y all sort this out,2022-07-05 16:10:35,,1,1,0.5358749433486766,0,301
+3f9911b6-b8e6-42c4-910d-816805846777,Hasitha Wijethunga,i only use slt app to see my data usage its really worked previous slt broadband app its had great user interface but this app is absolutely worst app for data usage this app look built in 19ts and to access data usage is really disgusting it must have easy access,2022-07-05 10:28:42,1.4.2,1,0,0.18932499333020855,0,264
 b59b8d8a-6c65-4274-b3ee-d4397eb6c5b5,Keshan Jayarathna,,2022-07-05 05:40:53,,5,0,0.0,0,0
 0a6179f6-149d-4453-ba59-28d174e1bdcd,Dez,the previous app was perfectly fine and more sophisticated why do you guys have to go and change it even the response time is slower in this app than the previous one,2022-07-05 02:13:47,1.4.2,2,0,0.13542872924400867,0,166
 8c8bbbc8-37b6-4aae-86ff-483a12dbc357,Pasindu Aloka,un useful app,2022-07-04 17:36:42,1.4.2,1,1,0.5306583436004951,0,13

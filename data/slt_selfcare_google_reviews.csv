@@ -1,4 +1,5 @@
 source,review_id,review_title,user_name,review_description,rating,thumbs_up,review_date,developer_response,developer_response_date,appVersion,language_code,country_code
+Google Play,7eb8256f-6b67-4932-8ec8-90d0c81167e1,,Harith Weeraman,crashes when checking out packages and eventually after doing anything else,1,0,2025-11-04 16:34:10,,,,en,us
 Google Play,17eefdcb-28f2-40b6-a460-452c467a37d5,,Sanjeewa ranasinghe,good app,4,0,2025-11-01 04:37:36,,,2.1.2,en,us
 Google Play,f7b6452f-29ee-4daa-a8f7-b7399fe34662,,Akila,Awful. UI sucks. Works as intended 20% of the time.,1,1,2025-10-31 06:04:14,,,2.1.2,en,us
 Google Play,23914119-e1c3-4af3-84dd-130281595699,,Pasindu Prabhath Galle Waththage,"The worst! can't find bill amount, bill history, even cant pay online",1,1,2025-10-30 01:27:08,,,2.1.2,en,us
