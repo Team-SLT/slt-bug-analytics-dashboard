@@ -1,4 +1,5 @@
 review_id,user_name,review_description,review_date,appVersion,rating,is_bug_report,bug_confidence,bug_keyword_count,review_length
+2f8e1b40-f6b1-46c4-bcac-2e46960e43e1,Mohamed Hafeez,the application has limitation can t add more than 4 cooections to manage them,2025-11-15 04:48:49,2.1.2,3,1,0.7652864695265407,0,78
 2dea5f65-d2b8-49d9-8474-26d606fa0ab4,R.A.W.G Rupika,super,2025-11-13 19:06:18,2.1.2,4,0,0.001769343222535471,0,5
 94472b3e-ddf7-4e6c-8e1e-b9c49a090e47,Hashini Rangala Dias,can t even check availabile balance,2025-11-07 05:19:43,2.1.2,1,1,0.772363329597812,0,35
 7eb8256f-6b67-4932-8ec8-90d0c81167e1,Harith Weeraman,crashes when checking out packages and eventually after doing anything else,2025-11-04 16:34:10,,1,1,0.6371241975520489,1,75
@@ -626,7 +627,7 @@ e1539f8e-605b-4250-a66f-db10bf7d9945,Heshan Tharanga,excellent,2023-04-13 01:34:
 50fa1764-423a-40a0-8986-f5250511f204,Tharindu Hapuarachchi,horrible being a leading telecommunication provider we expect much more than this app kindly develop an app that can be used thank you,2023-04-10 15:35:44,1.6.1,1,0,0.06410897981496975,0,134
 ce7e31ad-e6d8-4570-a019-bd8bb2627f62,Dilshan Senarathna,so much errors,2023-04-10 14:11:26,1.6.1,1,0,0.1761662244663314,1,14
 84d41519-4853-43c3-bcc4-20cfc6af7ebf,Migara Peiris,now always saying your transaction was unsuccessfully please try again,2023-04-10 07:11:34,1.6.1,5,1,0.9080963613692679,0,70
-3262d002-7d70-46bf-a23f-a8a441372911,Meril Jayathilaka,very good,2023-04-10 05:01:10,1.6.1,5,0,0.0007553346282994038,0,9
+3262d002-7d70-46bf-a23f-a8a441372911,Merril Jayathilaka,very good,2023-04-10 05:01:10,1.6.1,5,0,0.0007553346282994038,0,9
 a7f5cec0-ee5c-4b5b-a7d8-25ddf49b6d9b,Oshan Viduranga,app not works all the time mostly getting service temporary unavailable notification,2023-04-10 03:06:12,1.6.1,3,1,0.9931840567632916,0,84
 69cbc2bd-faf0-4a00-928d-c30807f8ad9a,Iroshan Yapa,it is not working properly,2023-04-10 02:56:03,1.6.1,2,1,0.8319696916701995,1,26
 14e1bc85-eed2-4309-80fd-5c74415c39d6,Pawan Theminda,,2023-04-09 14:47:10,1.6.1,4,0,0.0,0,0
@@ -1416,7 +1417,7 @@ ba472eea-a266-4468-abe3-9c6d79eef794,Shevon Mark,my device is rooted and this ap
 75e646ca-79e9-4ea6-89f3-a6811528ae3a,THARANGA KUMARA,i like this app,2021-07-06 15:57:10,,5,0,0.004850042206487219,0,15
 ffdfdd16-2043-41ef-a0d9-858e7ea1eecd,Hiruni Sharmila,,2021-07-06 15:55:45,1.3.2,5,0,0.0,0,0
 63abc622-b773-4ad3-b0ec-48474adb9185,Janath,as i wanted to pay my slt telephone bills from home via online i installed this myslt app last week since then i am trying many times to sign in to the app which is made necessary but to my dismay i was unable to do it due to faults of this app every time i try it and enter the required otp number which is sent to my email your message shows that it is wrong sometimes your message say that service is temporarily unavailable how can i get your service pay my bills i am disappointed,2021-07-05 22:58:37,1.3.2,1,1,0.8696431303649148,0,485
-9a43ed1a-bd8a-4c92-abf5-1cdd201fbb57,Lashane Fernando,it s good to have an app but the issue with this application is that you have to contact the service team to get your account set up where as you cant register by yourself and use it which makes it a bit useless please check on this and fix it appropriately so that it will be easy for users to check there connection status which also will minimize the call which we take just to set up an application,2021-07-05 14:52:13,,2,1,0.7657784531520738,2,402
+9a43ed1a-bd8a-4c92-abf5-1cdd201fbb57,Lashane Fernando,it s good to have an app but the issue with this application is that you have to contact the service team to get your account set up where as you cant register by yourself and use it which makes it a bit useless please check on this and fix it appropriately so that it will be easy for users to check there connection status which also will minimize the call which we take just to set up an application,2021-07-05 14:52:13,,2,1,0.7657784173945306,2,402
 68f899c7-c426-4577-a0c5-9bb6f518be96,Sunil Jayasekara,good,2021-07-05 10:16:09,1.3.2,5,0,0.0010766671734734798,0,4
 7c9fc667-be9e-495c-915e-81b541422880,Pathum Akalanka,can t pay my bill session timeout error appear every time at the end,2021-07-05 07:48:54,1.3.2,1,1,0.9203234723227475,1,68
 57034ace-3038-499b-b26b-848b9ad5d381,Prabudda Fernando (Prabu),application can t attach a location please add the location picker to get exact location and can t submit complains too,2021-07-04 18:27:25,1.3.2,1,1,0.8010370610468329,0,119
@@ -1444,7 +1445,7 @@ a575c0c0-0ee2-4b34-8018-596a40c9a350,Ahamed Arshad,app always says something wen
 5fe0b20a-824e-4b71-944d-0d58d5011803,Chamikara Yahampath,it has many bugs,2021-06-27 04:25:58,1.3.2,1,0,0.3830128109425471,1,16
 58780648-af59-4cc9-8ec4-d9724f90d527,SARATH KUMARA,good app system,2021-06-27 02:04:06,,5,0,0.0077790170493986,0,15
 fd314a2b-5cfb-48bb-8be7-9866be2a4361,PUBG Mobile,give access to sign up plz,2021-06-26 14:07:21,,1,0,0.008312882429265226,0,26
-b8d3614a-d008-416f-9b87-a6ef044e33bb,Janiya Nethma,worst app ever built by a huge telecommunication provider in sri lanka how funny is it that a huge cooperation like slt couldn t introduce a useful app tried logging in since morning everytime it says service will be back soon what is the purpose of wasting time of the company as well as customers by introducing half baked apps extremely disappointed,2021-06-26 12:41:00,1.3.2,1,0,0.17274236380842603,0,352
+b8d3614a-d008-416f-9b87-a6ef044e33bb,Janiya Nethma,worst app ever built by a huge telecommunication provider in sri lanka how funny is it that a huge cooperation like slt couldn t introduce a useful app tried logging in since morning everytime it says service will be back soon what is the purpose of wasting time of the company as well as customers by introducing half baked apps extremely disappointed,2021-06-26 12:41:00,1.3.2,1,0,0.17274235197789806,0,352
 f6493fd5-0cf4-41ac-9862-095b98fe9a95,Mohammed Shaheer,i checked my details from 1212 but when i include those details its also showing error,2021-06-26 12:11:18,,1,1,0.8812209898404364,1,86
 c610c8b1-7aed-4239-afa5-fd58f8666b69,E.L. Silva,,2021-06-26 11:42:09,1.3.2,3,0,0.0,0,0
 76220dcb-854d-4586-bd1d-33ae937260cc,Kakulawalage Don Sameera Chathuranga,new update not support android 5 and downward please fix this because most peoples dont have expensive mobile phones,2021-06-26 10:02:36,1.3.2,4,1,0.6356916910908929,1,116
