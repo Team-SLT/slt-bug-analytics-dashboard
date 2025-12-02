@@ -1,4 +1,5 @@
 review_id,user_name,review_description,review_date,appVersion,rating,is_bug_report,bug_confidence,bug_keyword_count,review_length
+40473dcd-ce5d-48b3-bc50-1f9c7e4249b0,Darshana Fernando (Darga),all optiond says error try again worst experience ever,2025-11-30 13:26:31,,1,1,0.7746858595674866,1,54
 eece7973-c120-49f3-9e01-21ce3e8f7a8f,Sithum Akash,very bad app,2025-11-27 15:38:43,,1,0,0.050298991253621854,0,12
 8f1e0d87-5dd2-4e54-aa2f-b73c12fe62e0,HASHAN KESARA,this app always crash when it comes to payment via visa card,2025-11-27 11:01:55,2.1.2,2,0,0.4849913158660881,1,60
 238ae43b-c284-45bf-9a04-893d69e67b82,Dhanawardana Gamage,i can not open the app to get more data,2025-11-27 02:43:00,2.1.2,1,1,0.5931931245243809,0,39
@@ -404,7 +405,7 @@ d18018fd-cbfb-4bc4-b7a7-7e7f61ea042b,Mahesh Gunathilaka (Mahesh),this app is aus
 72bf32ab-9b5d-462b-83fe-cbffa47c6bc4,Lakshan J. Kumara,not recommend there is a very weak internet connection,2023-12-03 11:07:33,1.7.0,1,0,0.00813285746981682,0,54
 960da1ca-ede2-4fba-bb0b-e279ab5bba63,Hadha Lye,i just paid the november month bill thru this app and ended up getting freezed but the amount for deducted from the bank account the app is really useless garbage since app getting freeze during payment is horrible i need an immediate solution,2023-12-02 18:00:33,1.7.0,1,1,0.7291984759643809,1,243
 22037374-b946-4c8e-88d8-ed221aca1190,Rochelle Samantha,most of the time it says service unavailable,2023-12-01 13:56:16,1.7.0,3,1,0.9773071510334272,0,44
-c588593e-dcd6-4555-b59f-0ffbaf835338,Kalhara Senevirathne,if there is a poor connection when adding extra packages and subscriptions it s adding the same bundle over and over you can not remove packages as soon as you add them even if u didn t use a single kilobyte and the best part is arguing with agents only they know to explain is that you must pay,2023-12-01 09:29:30,1.5.4,1,0,0.46047670030355264,0,295
+c588593e-dcd6-4555-b59f-0ffbaf835338,Kalhara Senevirathne,if there is a poor connection when adding extra packages and subscriptions it s adding the same bundle over and over you can not remove packages as soon as you add them even if u didn t use a single kilobyte and the best part is arguing with agents only they know to explain is that you must pay,2023-12-01 09:29:30,1.5.4,1,0,0.46047660384011996,0,295
 1bdd3ebd-797c-4482-bcf0-eaf3fcbe3f33,Nisais N,do you guys have a qa team within yiu or just develop and throw it to play store full of bugs every where in the app,2023-11-29 16:58:19,1.7.0,1,0,0.22504719282480792,1,116
 5f557cf5-feb4-484c-b800-3ee59f5b25ce,Hiron Kanishka,user experience is horrible,2023-11-27 03:15:37,1.7.0,1,0,0.0453723333866525,0,27
 4aa9497a-c86c-4fff-a80b-cadec7b53956,chandana gunasekera,so sad,2023-11-23 13:40:26,1.7.0,5,0,0.03920238781112482,0,6
@@ -441,7 +442,7 @@ ec6a18c1-a87d-4646-9434-873263fbf266,Janithma Lokubalasooriya,,2023-09-26 15:43:
 e4e07d1e-8579-4bc5-bfb5-e5db3027b662,Tuan Hazeem Joonus,history tab doesn t work,2023-09-26 01:06:11,1.7.0,4,1,0.9298867244444893,0,24
 b836ad61-ef58-428d-b66d-1a906da7cfc8,Amasha Palpita,we can t downgrade any plans selected from the app always need to contact call center agents this is very inconvenient only can upgrade the packages through the app in other telecommunication service providers this feature is available which is really convenient for the users please add this feature in your app as well,2023-09-23 13:52:44,,2,0,0.1287598721476563,0,320
 2b7d2750-840a-4f02-9249-608c5993e2f5,SS Wann,very easy to use great app,2023-09-23 03:52:49,1.7.0,5,0,0.02162624723709548,0,26
-25f5e311-5521-4a77-9e00-e00e06163882,Gihan Jayawardena,can t reduce data packages data packages can only be increased if we want to reduce the data package we have to give them a phone call but they do not take steps to implement it properly i gave them a phone call last month before renewing my data package for this month and asked them to reduce my data package but they did not implement it properly their aim here is to exploit customers money,2023-09-09 11:18:36,1.7.0,1,0,0.13041300988772672,0,394
+25f5e311-5521-4a77-9e00-e00e06163882,Gihan Jayawardena,can t reduce data packages data packages can only be increased if we want to reduce the data package we have to give them a phone call but they do not take steps to implement it properly i gave them a phone call last month before renewing my data package for this month and asked them to reduce my data package but they did not implement it properly their aim here is to exploit customers money,2023-09-09 11:18:36,1.7.0,1,0,0.1304129205405109,0,394
 2d3347f8-f454-421c-b91a-bc7e21b7d407,NoelDe Silva,slt fiber is super,2023-09-08 14:22:31,,5,0,0.04446026657218285,0,18
 c2d2346e-5a17-4a1d-ac34-fc8639497ca6,Amila Akalanka,terrible ui app frequently breaks with various error messages,2023-09-08 04:18:26,1.7.0,1,1,0.7137390295611942,1,61
 99382b06-f89b-4257-a80f-a7b502928ac6,Demon 02,trash other than very basic features like checking the remaining data and adding more when needed everything else is buggy,2023-09-05 12:40:39,,1,0,0.15334724518858744,1,122
@@ -482,10 +483,10 @@ a24ac388-14f7-4a96-a533-24ded7740714,Dilshani Samaraweera,horrid app cannot pay 
 0365da29-2854-44c5-a365-42d6e5594e8a,asela rangana,good,2023-08-24 07:22:27,1.7.0,3,0,0.0010726506780851636,0,4
 5f3a34d4-a426-4146-b513-284010dbe914,Mohamed Mazoon,help full app,2023-08-24 06:47:45,,4,0,0.15435129828141195,0,13
 ee05a9c4-487c-418b-abd0-f2dcf1943eec,Anthony Desilva,good,2023-08-24 06:27:04,1.7.0,5,0,0.0010726506780851636,0,4
-da073c41-acc2-4293-9da5-93a7aadae70f,Sujith Gunasekara,superb,2023-08-24 02:13:18,1.7.0,5,0,0.001652503482184328,0,6
+da073c41-acc2-4293-9da5-93a7aadae70f,Sujith Gunasekara,superb,2023-08-24 02:13:18,1.7.0,5,0,0.0016525034821843327,0,6
 25965a88-aae6-480a-a513-6b467b51017a,Gas Nidiya,,2023-08-24 02:08:02,1.6.1,5,0,0.0,0,0
 db52cb73-16b5-4487-bf54-c67b80df56bd,Kumarasinghege Pathiraja,good service,2023-08-24 00:57:20,1.7.0,3,0,0.0008316949183071779,0,12
-53ec6e8e-60b9-44a5-ba36-59409cec78d7,Ganga Ihala Korale VRC,good app,2023-08-24 00:27:15,,4,0,0.0035701466577921603,0,8
+53ec6e8e-60b9-44a5-ba36-59409cec78d7,Ganga Ihala Korale VRC,good app,2023-08-24 00:27:15,,4,0,0.003570146657792154,0,8
 7185471f-0c41-4a36-b34d-70a40095abd6,Indee Herath,too much reports but all are useless and also every month end app not work ever month end last two days data usage not showing realtime data usage can not see at the point useless app,2023-08-23 19:00:37,1.7.0,1,1,0.9304672061542901,0,183
 11b5aa62-b01d-4b47-a554-213de365de79,Sisira Mudannayake,exceptional,2023-08-23 18:26:10,1.7.0,5,0,0.019122446547713095,0,11
 1fdf09b8-78a3-4863-bcfd-0c94a1cfcb76,Ruwan Jayanetti,lot of bugs and inconsistencies,2023-08-23 17:48:32,1.7.0,1,1,0.7954099003464515,1,31
@@ -978,9 +979,9 @@ efa0d489-fe24-46da-b899-c5db58ff0206,Chaminda Herath,not useful as it advertised
 7ca7c991-0a0d-4976-942d-5c6a79fd269f,Sithum Buddika,user interface is full of shi cant even log in to acc,2022-07-07 19:26:07,1.4.2,1,1,0.512700149988645,0,53
 65a88b76-0c42-458e-b974-587b27865102,Oshan Lahiru-SBL,,2022-07-07 18:33:26,1.4.2,1,0,0.0,0,0
 ca241d99-5f7b-4fd1-899f-58d515519e6c,Sarangi Fernando,this app doesn t work old app didn t accept my user credentials all of a sudden i uninstalled that and trying to install this but can t install,2022-07-07 18:05:47,,1,1,0.6286991502262232,0,143
-7f594a4d-a7d8-484d-a08a-2e525e998e8b,Bo Bo,i ve been trying to log into my account but it showed sorry for the inconvenience caused service will be available soon i contacted the slt hotline after waiting for almost 16 minutes but they couldn t fix that problem either disappointed please give the old app back,2022-07-07 14:35:25,,1,1,0.8368460610757,2,267
+7f594a4d-a7d8-484d-a08a-2e525e998e8b,Bo Bo,i ve been trying to log into my account but it showed sorry for the inconvenience caused service will be available soon i contacted the slt hotline after waiting for almost 16 minutes but they couldn t fix that problem either disappointed please give the old app back,2022-07-07 14:35:25,,1,1,0.8368460610756999,2,267
 50c17c37-06ae-4f3e-a1c0-89c343988738,Iyan Fernando,doesn t let get any data add on packs doesn t respond to touch inputs update it was solved after sometime don t know how it happened,2022-07-07 13:16:23,,1,1,0.6217787367837304,0,132
-4e8178c7-4f59-4b27-89b1-36561ffce0dc,Lasen Punyawardana,this app is trash doesn t even let me add my accounts,2022-07-07 03:07:24,1.4.2,1,1,0.6035170092222232,0,53
+4e8178c7-4f59-4b27-89b1-36561ffce0dc,Lasen Punyawardana,this app is trash doesn t even let me add my accounts,2022-07-07 03:07:24,1.4.2,1,1,0.603517009222223,0,53
 1a6612ea-b85a-4e9b-9a8d-4d08168afeae,Mayan Perera,the slt brodband is missing how,2022-07-06 12:24:36,1.4.2,1,0,0.3589761688329804,0,31
 d401ac62-0241-4d5f-a63d-1453bca7cc36,Amanda Dela,the worst interface that ever slt build previous app was nice and it was user friendly to check my remaining data count this sucks,2022-07-06 08:03:25,1.4.2,1,0,0.0813548220927133,0,130
 435cf65d-5b68-45dd-9662-3950754723ca,Pragash Ganeshan,unable to login it says incorrect user name password even though i entered the right one unable to reset the password,2022-07-06 07:53:10,1.4.2,1,0,0.10962563580181266,0,117
@@ -1040,7 +1041,7 @@ c714e17f-c730-4420-8d24-8e20fb857a01,Lahiruka Wijesinghe,i would like to report 
 9c875318-bb46-4bfa-8c8a-32347082ec8a,Dushara Divyanjalee,i m disappointed with the customer service this app was really good before but now i m having difficulties in paying online i have complained several times but they didn t provide a sollution poor customer service,2022-05-21 16:54:47,1.4.2,1,0,0.4710755302178058,0,213
 547fb5d1-ca41-4741-a651-aef0b7444da8,Theja Wijesinghe,inexpensive,2022-05-20 03:12:36,1.4.2,4,0,0.02681573148518733,0,11
 dc5f9ce4-a2a5-4339-98e5-bda66baf19bc,Kumudu Nimali,better service,2022-05-19 15:47:32,1.4.2,5,0,0.004085090312675336,0,14
-d97c1d77-c39a-4e13-98f7-f23f3496a62e,Tharindu Kanishka,wanted i upgrade my internet package they promising that the app will provode efficient service but my request is still inprogress and now i cannot upgrade it by calling the call center they are saying that i need to wait because i have already requested it via my slt app nonsense,2022-05-18 05:04:03,1.4.2,1,0,0.21084433756330398,0,281
+d97c1d77-c39a-4e13-98f7-f23f3496a62e,Tharindu Kanishka,wanted i upgrade my internet package they promising that the app will provode efficient service but my request is still inprogress and now i cannot upgrade it by calling the call center they are saying that i need to wait because i have already requested it via my slt app nonsense,2022-05-18 05:04:03,1.4.2,1,0,0.21084452350950456,0,281
 835b35fc-d6c3-4cc5-bcd2-2a375b167e83,amitha dilshan,esy pay,2022-05-14 03:14:11,1.4.2,4,0,0.0066608594090194605,0,7
 7ea8a9de-bcc5-4ed8-bd1c-6b3bb51ab231,Lavanya Malkini,cool,2022-05-12 05:55:49,1.4.2,5,0,0.0051397719160829825,0,4
 5a1d9b88-8ef7-42a7-be6b-30452509643f,Midu Shan,useless you can t even make payment it won t work,2022-05-11 16:35:12,,1,1,0.9436376024673485,0,49
@@ -1208,7 +1209,7 @@ e380353d-b7c0-4b2b-bdc2-eadcca8feaab,Deepika Peiris,ohhhhhhhhhhhh,2021-10-19 03:
 ef12e63c-8fb8-41d7-8169-abf0275495fc,tccsunion ampara,it is good tool to manage wifi and able to understand where we are can simply by clicking we can obtain desired tv channel and the wifi needs,2021-10-16 11:49:16,1.4.1,5,0,0.02979691993839411,0,141
 9ee23812-8038-4f2e-86b1-1edaf43eda5a,Sevin Boralugoda,basically yes it does the job but the user interface is awful and is very frustrating to use the animations are choppy when switching from windows and applying commands but where it needs the most improvements is the organisation of buttons its all over the place and is not catogarised for example why is there a whole separate section for complaints it s not something that users will use all the time could have been in a sub menu and the section replaced with something more important,2021-10-16 09:23:07,1.4.1,1,0,0.136714167155207,0,488
 2b4fc86f-0109-4f7a-8b6c-22c522bac2cd,Wasantha Laksiri,good,2021-10-15 20:21:07,1.4.1,4,0,0.0010726506780851636,0,4
-c7a71634-a156-411b-b87b-e7f694b21c5e,Dr: Rasika Liyanage,something wrong with my app showing to update but not updating or not working also informed to slt but still the same no problem with the phone other apps working,2021-10-15 19:22:48,1.3.2,1,1,0.9510302614153575,2,162
+c7a71634-a156-411b-b87b-e7f694b21c5e,Dr: Rasika Liyanage,something wrong with my app showing to update but not updating or not working also informed to slt but still the same no problem with the phone other apps working,2021-10-15 19:22:48,1.3.2,1,1,0.9510302612239514,2,162
 d68730e7-b92b-4296-adef-bd2633bd1d70,SIRAJUN ISTHIKAR MOHAMED ABOOBUCKER,very good app,2021-10-15 18:24:11,1.3.2,5,0,0.00505315361187112,0,13
 6c74808c-673d-479b-9c1f-d44207e32ba4,Sanju Galle,good,2021-10-15 16:17:05,1.4.1,5,0,0.0010726506780851636,0,4
 b7274c26-8bce-4952-9bc3-7866f76f8643,FILM HUB,,2021-10-15 15:43:37,1.3.2,1,0,0.0,0,0
