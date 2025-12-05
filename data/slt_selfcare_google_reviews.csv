@@ -1,4 +1,5 @@
 source,review_id,review_title,user_name,review_description,rating,thumbs_up,review_date,developer_response,developer_response_date,appVersion,language_code,country_code
+Google Play,b83ff6ef-5593-49fd-a999-728f79e875e8,,Paul Sav,"The app is useless. Not user-friendly. I am able to see bill balance, but not anything else, such as the TV guide, is blank.",1,0,2025-12-03 15:29:35,,,2.1.2,en,us
 Google Play,40473dcd-ce5d-48b3-bc50-1f9c7e4249b0,,Darshana Fernando (Darga),"all optiond says error, try again. worst experience ever.",1,0,2025-11-30 13:26:31,,,,en,us
 Google Play,eece7973-c120-49f3-9e01-21ce3e8f7a8f,,Sithum Akash,Very bad app,1,0,2025-11-27 15:38:43,,,,en,us
 Google Play,8f1e0d87-5dd2-4e54-aa2f-b73c12fe62e0,,HASHAN KESARA,this app always crash when it comes to payment via visa card,2,0,2025-11-27 11:01:55,,,2.1.2,en,us
@@ -531,7 +532,7 @@ Google Play,13a55397-7347-405a-847d-0d4722538dca,,Rajitha Weerarathna,This is no
 Google Play,b2ffcf37-2f47-47ee-b77f-04f8a19863c7,,Ranjan Gunathilake,Update not werking pls check b/4 publishing its werking or not,1,0,2023-08-19 15:39:44,,,1.7.0,en,us
 Google Play,fef0576f-b0bc-47ec-b9d8-57404b795768,,M. Manikkarajah,User friendly simple app,4,0,2023-08-19 14:43:43,,,1.7.0,en,us
 Google Play,4c020d68-66a6-4fb8-9bda-f20a81ff50a7,,Chandrasena Koralagoda,Week internet availablity,2,0,2023-08-19 06:37:01,,,1.7.0,en,us
-Google Play,774466c3-2ce9-42ae-9105-629a5cad5619,,Thanighaasalam Sinnathurai,It's very easy to access.,5,0,2023-08-19 05:51:24,,,1.7.0,en,us
+Google Play,774466c3-2ce9-42ae-9105-629a5cad5619,,Thanigaasalam Sinnathurai,It's very easy to access.,5,0,2023-08-19 05:51:24,,,1.7.0,en,us
 Google Play,9bf41bd8-5933-4a93-ac96-f42d0b665b13,,Ajantha Kadupitiya,DONOT PAY THROUGH THIS APP BECAUSE IT CAUSES LOT OF ISSUES AS NO EMAIL OR SMS NOTIFICATION. DONOT PAY YOUR BILL HERE. DONOT TRUST THIS APP. ALWAYS GIVING HEADACHE FOR YOU.,1,1,2023-08-19 05:22:17,,,1.7.0,en,us
 Google Play,e754dd52-0c78-46ab-ab29-5ab5c3da76c1,,Mufrih Ahmed,"Couldn't sign in, it says to type 10 digit password, even after I type my 10 digit password.",1,1,2023-08-19 05:17:11,,,1.7.0,en,us
 Google Play,14c8aec2-feae-45b1-9aee-9da99ece823c,,The Corner Shop,"Whenever I open the app, it says update available. When I click ""update"" it redirects to play store, but does not update at all instead shows uninstall / open. Can the develper(s) please explain how to update.",4,1,2023-08-19 04:08:15,,,,en,us
@@ -676,7 +677,7 @@ Google Play,2424ea88-df75-4732-9102-4a4e2fa64283,,Suneth Malinda Harangala,Good.
 Google Play,ad178a00-ee30-4bc0-9c55-a6de48ff8a56,,SHADMAN Reza,SLT MOBITEL 🚫 PLEASE 🙏 MAKE THE WORTHFUL APP,1,0,2023-02-27 17:27:46,,,,en,us
 Google Play,311eb3e6-1afb-47f6-a2cd-c41f01e1d131,,AKALANKA PREMARATHNA,User friendly with all the information that a client needs,4,0,2023-02-27 05:43:45,,,1.5.9,en,us
 Google Play,d7054d7b-f407-4975-8f00-c8ed7217f9ea,,Kasun Gayashantha,Good,5,0,2023-02-26 03:12:36,,,,en,us
-Google Play,57ba3085-add8-4eeb-a022-512e0fbcbd26,,Jaanaka Wimaladharma,"I was thrilled to hear about an all-in -one app from SLT. Started using it last year. Until today the app is very stale. No new features. Basic feature expected is not there, like billing details. At minimum the bill details of last three months should be visible in the app (not the bill amount only) because the e-bill service is also a hit and miss affair. Once in a while the bill does not come (I am competent enough to locate the bill if it arrives in to the mail service).",2,352,2023-02-24 20:53:11,,,1.6.1,en,us
+Google Play,57ba3085-add8-4eeb-a022-512e0fbcbd26,,Jaanaka Wimaladharma,"I was thrilled to hear about an all-in -one app from SLT. Started using it last year. Until today the app is very stale. No new features. Basic feature expected is not there, like billing details. At minimum the bill details of last three months should be visible in the app (not the bill amount only) because the e-bill service is also a hit and miss affair. Once in a while the bill does not come (I am competent enough to locate the bill if it arrives in to the mail service).",2,353,2023-02-24 20:53:11,,,1.6.1,en,us
 Google Play,d3a484dd-aaf3-458b-a581-ce4e1f946d69,,Tharaka Perera,"App is alright to pay the bills only but when it comes to getting a service its terrible totally useless i tried to get the ""happy day"" it keeps saying ""bad request "" and on the web also says system error please fix your portal without just keeping the bill payment system working 😑",1,1,2023-02-23 19:29:15,,,,en,us
 Google Play,c88b5012-2d45-4d90-a99c-8133f590ee5b,,amali welegedara,Good,5,0,2023-02-23 14:31:37,,,1.5.9,en,us
 Google Play,35ebad18-6a0b-4a27-acce-bba1b38ecf72,,Epun Manula,Good app,5,0,2023-02-22 08:22:12,,,1.6.1,en,us
