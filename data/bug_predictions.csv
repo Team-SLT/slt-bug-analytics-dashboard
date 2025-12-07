@@ -1,4 +1,6 @@
 review_id,user_name,review_description,review_date,appVersion,rating,is_bug_report,bug_confidence,bug_keyword_count,review_length
+c32f44e0-680a-4fea-aca7-089b5f01db42,Imalka Dilshan,poor customer service myslt app is useless when it comes to customer support my 4g router hasn t worked for a week and even after submitting complaints through the app i got no proper response slt customer service is terrible hard to reach always giving the same replies and never solving the issue very disappointing experience,2025-12-05 20:15:49,2.1.2,1,1,0.7509567729398096,1,328
+727a7b85-b048-43e6-9c12-b3a826804826,Navoda De Silva,extremely buggy app full of issues,2025-12-05 16:10:59,2.1.2,1,1,0.9261114537260574,2,34
 b83ff6ef-5593-49fd-a999-728f79e875e8,Paul Sav,the app is useless not user friendly i am able to see bill balance but not anything else such as the tv guide is blank,2025-12-03 15:29:35,2.1.2,1,1,0.7046335584020623,0,118
 40473dcd-ce5d-48b3-bc50-1f9c7e4249b0,Darshana Fernando (Darga),all optiond says error try again worst experience ever,2025-11-30 13:26:31,,1,1,0.7746645023247971,1,54
 eece7973-c120-49f3-9e01-21ce3e8f7a8f,Sithum Akash,very bad app,2025-11-27 15:38:43,,1,0,0.05030095366406737,0,12
@@ -299,7 +301,7 @@ a54222a3-bd22-4282-b189-20dfde101ab9,maheshi perera,don t use this as well as a 
 5980216f-385f-42c6-a76a-8d85c1f7d2f9,Malindu Dilshan,bruh why are you paying your developers should fire them asap you guy s living in a cave or something haven t seen my dialog app they fixed their lagging issues months ago their app is super smooth now and this mfing app takes like 2 hours just show something and that s if only when i m lucky 95 of the time say oops something went wrong we are soooooo disappointed bruh i can t even begin to tell how disappointed i am bugs fix krl,2024-05-18 14:55:57,,2,1,0.6444175032636569,3,433
 95a6e5ab-0c9c-4e41-ad31-d28b9c7933fe,Chatura Wijekoon,this app is very slow functions like detail reports are almost not available even though i subscibed for them,2024-05-13 07:37:32,1.8.0,3,0,0.4312908044396018,0,109
 23098f70-d37b-415b-a793-5642e4979425,Madura Sasanka,bad signal poor connection,2024-05-12 11:56:20,1.7.0,1,0,0.12620603387875431,0,26
-7b9dae06-b627-4eba-805d-bef1c985efaa,Thevarasa Thesigan,slt is the worst internet service provider within the 4g broadband service in sri lanka their app is also similar to their internet service there is a complaint registration system available in this app i registered a complaint last year but still haven t received any response,2024-05-10 19:29:14,1.8.0,1,0,0.10061859841684294,0,277
+7b9dae06-b627-4eba-805d-bef1c985efaa,Thevarasa Thesigan,slt is the worst internet service provider within the 4g broadband service in sri lanka their app is also similar to their internet service there is a complaint registration system available in this app i registered a complaint last year but still haven t received any response,2024-05-10 19:29:14,1.8.0,1,0,0.10061863543700653,0,277
 28943520-bed0-485e-8725-128907b1f6fa,Gamini Chandrasekera,slt email sending error comes,2024-05-10 11:15:56,1.8.0,1,1,0.777714073274763,1,29
 de29b077-4b48-4798-aecc-2ab78bc7c1c3,Faizer Akm,loyalty,2024-05-09 12:52:30,1.7.0,5,0,0.004918977094212328,0,7
 9f9070c5-f279-4a10-b782-68b7457eb345,Nimsara Mahagedara,cannot even add my connection it says service temporary unavailable,2024-05-08 10:09:41,1.8.0,1,1,0.9715645648530791,0,67
@@ -326,7 +328,7 @@ f40d0e2e-a941-4034-94c7-7cdc742b9750,Rohan Sarathchandra,well structured easy to
 a9cca826-0d27-4103-beb7-42ec92b7d249,DLG NAYANATHARA - 0055,poor connection don t activite any data plans,2024-04-13 16:38:24,1.5.2,1,1,0.5741173040723209,0,45
 f2aef710-b6b7-4f42-a7b0-dde611a4935e,Gamunu Dinesh,,2024-04-12 04:11:18,1.7.0,1,0,0.0,0,0
 2a652c35-63ae-42f2-901d-2550550419e4,Ks Sudarsh,happy day select system error router massage,2024-04-11 15:51:03,,1,1,0.512020605189795,1,44
-89f3a37a-37ca-4c55-8939-79a4471d3ec3,Janindu Rajapaksha,their connection speed gets so low due to higher user base so they can t have new users network speeds are so low that 3 seconds of hd video loads for 30 seconds and after thst 3 seconds it buffers for anlther 30 seconds,2024-04-11 12:03:26,1.7.0,1,0,0.02852733714303851,0,220
+89f3a37a-37ca-4c55-8939-79a4471d3ec3,Janindu Rajapaksha,their connection speed gets so low due to higher user base so they can t have new users network speeds are so low that 3 seconds of hd video loads for 30 seconds and after thst 3 seconds it buffers for anlther 30 seconds,2024-04-11 12:03:26,1.7.0,1,0,0.028527318056020053,0,220
 2b743da0-b673-4b8f-a2f7-c8048202f7d2,Binara Waduge,scamming sri lankan peoples shame on you,2024-04-09 13:34:51,,1,0,0.0070769151810122196,0,40
 ae869505-8bdc-4386-8e29-39051c8bb5fb,Anura Wikramarachchi,ol pphon up hotel pt,2024-04-08 06:02:09,1.7.0,5,0,0.006033765292311375,0,20
 b268e9c5-be74-4afb-bd37-3a8f4d14027e,chathura prabath,very high charges poor customer service,2024-04-06 10:58:09,,1,0,0.07046493746737843,0,39
@@ -483,7 +485,7 @@ a24ac388-14f7-4a96-a533-24ded7740714,Dilshani Samaraweera,horrid app cannot pay 
 10e9cfb5-bf8c-4a70-aec6-29b227db7217,Dananjaya Kulaserkara,the app has so many bugs when i went to pay my bill it wouldn t respond,2023-08-24 09:52:39,,1,1,0.8648309526615465,1,71
 0365da29-2854-44c5-a365-42d6e5594e8a,asela rangana,good,2023-08-24 07:22:27,1.7.0,3,0,0.0010730725348951048,0,4
 5f3a34d4-a426-4146-b513-284010dbe914,Mohamed Mazoon,help full app,2023-08-24 06:47:45,,4,0,0.1543527589782185,0,13
-ee05a9c4-487c-418b-abd0-f2dcf1943eec,Anthony Desilva,good,2023-08-24 06:27:04,1.7.0,5,0,0.0010730725348951056,0,4
+ee05a9c4-487c-418b-abd0-f2dcf1943eec,Anthony Desilva,good,2023-08-24 06:27:04,1.7.0,5,0,0.0010730725348951048,0,4
 da073c41-acc2-4293-9da5-93a7aadae70f,Sujith Gunasekara,superb,2023-08-24 02:13:18,1.7.0,5,0,0.001652919541794219,0,6
 25965a88-aae6-480a-a513-6b467b51017a,Gas Nidiya,,2023-08-24 02:08:02,1.6.1,5,0,0.0,0,0
 db52cb73-16b5-4487-bf54-c67b80df56bd,Kumarasinghege Pathiraja,good service,2023-08-24 00:57:20,1.7.0,3,0,0.0008318700390841837,0,12
@@ -978,9 +980,9 @@ cb210bc2-f86a-4013-9c27-3b2d44040d43,Keshor Kumar. R,least service providers in 
 efa0d489-fe24-46da-b899-c5db58ff0206,Chaminda Herath,not useful as it advertised sometimes you can not simply login to the system no provision when there are more than one account when can you understand people want to save time in digital services rather than pressing buttons as you ask i have contacted call center people 04 times they don t know about this finally i realized this is not for corporate customers,2022-07-08 05:57:26,1.4.2,1,0,0.170845597743261,0,362
 7ca7c991-0a0d-4976-942d-5c6a79fd269f,Sithum Buddika,user interface is full of shi cant even log in to acc,2022-07-07 19:26:07,1.4.2,1,1,0.5126582027011978,0,53
 65a88b76-0c42-458e-b974-587b27865102,Oshan Lahiru-SBL,,2022-07-07 18:33:26,1.4.2,1,0,0.0,0,0
-ca241d99-5f7b-4fd1-899f-58d515519e6c,Sarangi Fernando,this app doesn t work old app didn t accept my user credentials all of a sudden i uninstalled that and trying to install this but can t install,2022-07-07 18:05:47,,1,1,0.6287088930386892,0,143
+ca241d99-5f7b-4fd1-899f-58d515519e6c,Sarangi Fernando,this app doesn t work old app didn t accept my user credentials all of a sudden i uninstalled that and trying to install this but can t install,2022-07-07 18:05:47,,1,1,0.6287088930386894,0,143
 7f594a4d-a7d8-484d-a08a-2e525e998e8b,Bo Bo,i ve been trying to log into my account but it showed sorry for the inconvenience caused service will be available soon i contacted the slt hotline after waiting for almost 16 minutes but they couldn t fix that problem either disappointed please give the old app back,2022-07-07 14:35:25,,1,1,0.8368432387383697,2,267
-50c17c37-06ae-4f3e-a1c0-89c343988738,Iyan Fernando,doesn t let get any data add on packs doesn t respond to touch inputs update it was solved after sometime don t know how it happened,2022-07-07 13:16:23,,1,1,0.6217161791500435,0,132
+50c17c37-06ae-4f3e-a1c0-89c343988738,Iyan Fernando,doesn t let get any data add on packs doesn t respond to touch inputs update it was solved after sometime don t know how it happened,2022-07-07 13:16:23,,1,1,0.6217161791500437,0,132
 4e8178c7-4f59-4b27-89b1-36561ffce0dc,Lasen Punyawardana,this app is trash doesn t even let me add my accounts,2022-07-07 03:07:24,1.4.2,1,1,0.6035250791913603,0,53
 1a6612ea-b85a-4e9b-9a8d-4d08168afeae,Mayan Perera,the slt brodband is missing how,2022-07-06 12:24:36,1.4.2,1,0,0.3590654271077872,0,31
 d401ac62-0241-4d5f-a63d-1453bca7cc36,Amanda Dela,the worst interface that ever slt build previous app was nice and it was user friendly to check my remaining data count this sucks,2022-07-06 08:03:25,1.4.2,1,0,0.08134189417201595,0,130
@@ -1197,7 +1199,7 @@ ac1e269e-16da-4aa4-bddb-05ec435d5cf4,Chamika Kannangara,i have done my payment a
 a71d16d3-ad5b-499b-9b9a-42817158b520,thilina danushka Abewickrama,super,2021-10-21 16:05:50,,5,0,0.0017691748972822445,0,5
 90039a2a-dac2-4074-a996-92293b47380e,danuja danuja,danuja,2021-10-21 10:07:45,,5,0,0.0008176428281041529,0,6
 4ad2dffc-2e0c-455f-9aa3-bc7548847859,Nadeesha Munasinghe,,2021-10-21 03:49:40,1.4.1,5,0,0.0,0,0
-69d9b95a-65c7-498a-9564-99c3fafb799c,asanka153,i yes it very good but now it ask for update when i choose to update update continue when open the app again update message come again what i have to do,2021-10-20 13:28:55,,4,1,0.6782080101908963,0,152
+69d9b95a-65c7-498a-9564-99c3fafb799c,asanka153,i yes it very good but now it ask for update when i choose to update update continue when open the app again update message come again what i have to do,2021-10-20 13:28:55,,4,1,0.6782079980214925,0,152
 03746351-1ec9-46aa-bd9e-fc54af59c992,Heshan Jayakody,the app s great but it only supports phones with android 6 which kinda bums me out try to make it compatible with phones with android 4 and above,2021-10-20 07:39:24,1.4.1,4,1,0.757176333616484,0,145
 e4cc3e0e-fb89-4875-bb4b-117db0c74356,LAST HACK SHOT,excellent app,2021-10-20 03:57:50,,5,0,0.00800608931834631,0,13
 e380353d-b7c0-4b2b-bdc2-eadcca8feaab,Deepika Peiris,ohhhhhhhhhhhh,2021-10-19 03:42:24,,1,0,0.0053117846676095535,0,13
@@ -1209,7 +1211,7 @@ e380353d-b7c0-4b2b-bdc2-eadcca8feaab,Deepika Peiris,ohhhhhhhhhhhh,2021-10-19 03:
 ef12e63c-8fb8-41d7-8169-abf0275495fc,tccsunion ampara,it is good tool to manage wifi and able to understand where we are can simply by clicking we can obtain desired tv channel and the wifi needs,2021-10-16 11:49:16,1.4.1,5,0,0.029793763934316753,0,141
 9ee23812-8038-4f2e-86b1-1edaf43eda5a,Sevin Boralugoda,basically yes it does the job but the user interface is awful and is very frustrating to use the animations are choppy when switching from windows and applying commands but where it needs the most improvements is the organisation of buttons its all over the place and is not catogarised for example why is there a whole separate section for complaints it s not something that users will use all the time could have been in a sub menu and the section replaced with something more important,2021-10-16 09:23:07,1.4.1,1,0,0.1367129044306878,0,488
 2b4fc86f-0109-4f7a-8b6c-22c522bac2cd,Wasantha Laksiri,good,2021-10-15 20:21:07,1.4.1,4,0,0.0010730725348951048,0,4
-c7a71634-a156-411b-b87b-e7f694b21c5e,Dr: Rasika Liyanage,something wrong with my app showing to update but not updating or not working also informed to slt but still the same no problem with the phone other apps working,2021-10-15 19:22:48,1.3.2,1,1,0.9510301611324709,2,162
+c7a71634-a156-411b-b87b-e7f694b21c5e,Dr: Rasika Liyanage,something wrong with my app showing to update but not updating or not working also informed to slt but still the same no problem with the phone other apps working,2021-10-15 19:22:48,1.3.2,1,1,0.9510301613276695,2,162
 d68730e7-b92b-4296-adef-bd2633bd1d70,SIRAJUN ISTHIKAR MOHAMED ABOOBUCKER,very good app,2021-10-15 18:24:11,1.3.2,5,0,0.00505343636862509,0,13
 6c74808c-673d-479b-9c1f-d44207e32ba4,Sanju Galle,good,2021-10-15 16:17:05,1.4.1,5,0,0.0010730725348951048,0,4
 b7274c26-8bce-4952-9bc3-7866f76f8643,FILM HUB,,2021-10-15 15:43:37,1.3.2,1,0,0.0,0,0
@@ -1487,7 +1489,7 @@ c5966274-4017-4d38-a861-5e384ed5836a,Wafa Gazzaly,need more facilities,2021-06-2
 c73c3bf2-1e28-4c20-9f7b-861bfbc040e5,Osura Shalinda Disanayaka,click more data usage display error please change the slt package for view data usage,2021-06-19 15:25:18,1.3.2,3,1,0.7136916526746026,1,85
 5022d7a5-70c4-4501-b29b-4d0e0d54c1c2,milinda jayathilake,good app way easier than calling hot line,2021-06-19 05:12:36,1.3.2,5,0,0.030500098212799663,0,41
 ad6d61cf-1b71-4fdc-89e9-d6d38ae985c0,Rasanjana G Jayasekara,i just updated this app let us see how it will show its improvements anywat as far as the way it used to be was not as good as i expected,2021-06-18 16:58:09,1.3.2,1,0,0.07837000792723806,0,137
-72094687-bf60-4d33-94a2-1e4687473de0,haritha rajapaksha,no good,2021-06-18 05:17:24,,5,0,0.010437297427801072,0,7
+72094687-bf60-4d33-94a2-1e4687473de0,haritha rajapaksha,no good,2021-06-18 05:17:24,,5,0,0.010437297427801083,0,7
 5418040c-b2b8-450b-a254-79d6ce2d2ebe,Hanaan Hussain,poor ui,2021-06-17 16:33:53,1.3.2,1,0,0.13012929376012206,0,7
 5b9e38d2-40cc-4755-84a9-59fea6cdfa0f,Sellathurai Niranjan Nira,requested fiber connection they never respond good customer service,2021-06-17 16:20:21,1.3.2,1,0,0.10583264759195123,0,67
 528986c5-65ae-47ce-b992-bc4413ff3030,sarath amarasinghe,useless,2021-06-17 08:02:52,,1,1,0.7913673808892454,0,7
@@ -1536,7 +1538,7 @@ de8530cc-779e-4950-88e7-7ce705c8d62e,Imesh kavishka Dulanjana,good app very help
 e54e2446-f7d0-464c-974b-e9994e552574,Yasantha Mihiran,why did you even develop this app,2021-06-02 16:33:13,1.3.2,1,0,0.026056539518113306,0,33
 aed6fc92-0e20-48b9-94b0-640d680d5dee,Jin Kazama,the ui ux is so poorly made its a crime fix it asap,2021-06-02 16:17:42,1.3.2,1,0,0.0652750425544178,1,51
 dc97056b-7fc2-47c9-9a19-6f07a03c941f,Hello Hello,trash absolute trash i have been trying to create an account for almost 2 hours this app needs some major improvements,2021-06-02 15:02:26,1.3.2,1,0,0.0685332722440041,0,118
-46d3a40f-78b7-4206-905a-c51a4f758f8e,Gaming Strategy Stream,slt service is very bad,2021-06-02 13:25:25,1.3.2,1,0,0.25192751485343357,0,23
+46d3a40f-78b7-4206-905a-c51a4f758f8e,Deshan Shashen,slt service is very bad,2021-06-02 13:25:25,1.3.2,1,0,0.25192751485343357,0,23
 09c49e09-c87a-4af5-a5ae-44cd34cdaace,Himansa Shehani,,2021-06-02 12:51:13,1.3.2,1,0,0.0,0,0
 398b5861-efe0-4d17-b12b-c37b18649598,Thisal De Silva,trash company,2021-06-02 10:39:20,1.3.2,1,0,0.002002047639309633,0,13
 fe1df2f6-31aa-4754-b031-2dc35bcf6db1,Sachith Kasthuriarachchi,please enhance the complaint section in the app by providing a status of the complaint successful failed when i tried to file a complaint using this app it did not give any feedback nor returned to the previous state therefore i clicked the submit button multiple times which resulted in multiple complaints please fix this,2021-06-02 09:24:49,1.3.0,4,1,0.8377742112794037,2,323
@@ -1985,6 +1987,6 @@ f21501a6-08ef-45f7-87c3-85309aa26d72,A Google user,worst scam company in sri lan
 e44e5ed4-c471-46d6-abbd-20659cd202b3,A Google user,worst isp in sri lanka totally scam service most unprofessional staff and ethical behaviors,2020-04-09 07:18:07,1.0.0,1,0,0.016497328009823894,0,91
 52a6122e-0d7a-4a85-be20-f456ca26eb00,A Google user,all in one app i m able to manage my account see the bill amounts pay bills and easily log any faults through the app great initiative,2020-04-09 03:49:40,1.0.0,5,0,0.2732265086000929,0,134
 71957159-17e9-45d6-995b-395e0aae4bf9,A Google user,most wanted app,2020-04-08 16:21:36,1.0.0,5,0,0.01344855502619353,0,15
-9f24bf70-e3d9-47e8-a1b9-35dfd4d767d1,A Google user,excellent app super easy loged with my google account give information tp number billing account number and nic to add an account long waiting functions from slt can see service status bill payment status and pay the bill can logde faults can made service upgrade new connection can subscribe to e bill service,2020-04-08 01:05:48,1.0.0,5,0,0.07732272573791125,0,310
+9f24bf70-e3d9-47e8-a1b9-35dfd4d767d1,A Google user,excellent app super easy loged with my google account give information tp number billing account number and nic to add an account long waiting functions from slt can see service status bill payment status and pay the bill can logde faults can made service upgrade new connection can subscribe to e bill service,2020-04-08 01:05:48,1.0.0,5,0,0.07732272573791123,0,310
 e466e159-c822-4e94-aac5-26f1195276d5,A Google user,almost all the functions in a single app to manage my slt account hope slt will add rest of the functions to the same app making this one stop solution as described,2020-04-07 18:02:43,1.0.0,5,0,0.22316655488974368,0,164
-89731187-d3b3-4432-a69e-a146e001d6c5,A Google user,easy sign up many features great look and feel and all in one app thank you slt,2020-04-07 16:23:46,,5,0,0.012592020915869506,0,79
+89731187-d3b3-4432-a69e-a146e001d6c5,A Google user,easy sign up many features great look and feel and all in one app thank you slt,2020-04-07 16:23:46,,5,0,0.012592020915869516,0,79
