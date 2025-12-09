@@ -1,4 +1,5 @@
 review_id,user_name,review_description,review_date,appVersion,rating,is_bug_report,bug_confidence,bug_keyword_count,review_length
+82b326fc-24b8-4dbe-a0a5-db1ef3314e85,Tharanga Lasitha,very bad user interface,2025-12-06 05:48:41,2.1.2,1,0,0.07036755682207955,0,23
 c32f44e0-680a-4fea-aca7-089b5f01db42,Imalka Dilshan,poor customer service myslt app is useless when it comes to customer support my 4g router hasn t worked for a week and even after submitting complaints through the app i got no proper response slt customer service is terrible hard to reach always giving the same replies and never solving the issue very disappointing experience,2025-12-05 20:15:49,2.1.2,1,1,0.7509567729398096,1,328
 727a7b85-b048-43e6-9c12-b3a826804826,Navoda De Silva,extremely buggy app full of issues,2025-12-05 16:10:59,2.1.2,1,1,0.9261114537260574,2,34
 b83ff6ef-5593-49fd-a999-728f79e875e8,Paul Sav,the app is useless not user friendly i am able to see bill balance but not anything else such as the tv guide is blank,2025-12-03 15:29:35,2.1.2,1,1,0.7046335584020623,0,118
@@ -362,7 +363,6 @@ cec30c4a-8842-485e-845d-46db48ea3acb,Gayathiri,what in the world is wrong with t
 26a857fe-ed0e-4b9e-bb55-82bd21f4e1f9,Jayantha Weerasinghe,i seriously can t understand your protocol report and daily usage those really confuse me please fix this mess,2024-02-14 02:43:44,1.7.0,1,0,0.18962148492815503,1,110
 ca9eba8b-b981-4f03-8bb8-d1a34c2556a2,Pol Raj,how to change package in this app because i want to change this package changing the options didn t work so not useful thi app,2024-02-11 16:03:52,1.7.0,1,0,0.1391976235986691,0,126
 8cd253e3-054c-42be-9178-29ae7d726ffe,Sadiya Waleed,we activated fibre connection with a 100gb 40 anytime 60gb night time the app doesn t show seperately how much night time and anytime data has been used on of the primary reasons to for user to download this app is to track usage if that isn t available it is pointless,2024-02-11 09:26:04,1.7.0,2,0,0.2744738408333545,0,269
-f2238e91-0bef-4217-8631-07ad0c9bd62a,Bala SMJ,says internal error all the time when i go to check daily usage no update available have cleared cache even tried reinstalling,2024-02-11 06:51:50,1.7.0,2,1,0.9346140670388973,1,126
 a1a5ae5d-ebea-479c-a09a-2bcd18c51a43,N Jay,slt nam guu,2024-02-08 14:25:32,,1,0,0.0041489958291711804,0,11
 3e81d7a9-2ac3-4adb-9037-3c19118864ed,Omila Mananayaka,complain section logic bill system reconnect erro service barred 1212 service complain online app low pay bill complain submit logic,2024-02-06 07:48:04,1.7.0,1,1,0.7298269535276636,0,132
 1ef9f566-918d-4387-aff9-ec0bada26d56,tharanga Taka,register,2024-01-31 12:55:35,1.7.0,1,0,0.012317371877038723,0,8
